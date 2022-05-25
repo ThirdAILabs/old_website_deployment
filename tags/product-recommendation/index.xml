@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Product Recommendation on ThirdAI</title>
+    <link>//thirdailabs.github.io/tags/product-recommendation/</link>
+    <description>Recent content in Product Recommendation on ThirdAI</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="//thirdailabs.github.io/tags/product-recommendation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Product Recommendation</title>
+      <link>//thirdailabs.github.io/solutions/product-recommendation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//thirdailabs.github.io/solutions/product-recommendation/</guid>
+      <description>The BOLT engine can train a 1.6-billion parameter model on a &amp;lt;$1,200 refurbished V3 Intel machine faster than four top-of-the-line Nvidia A100 GPUs.</description>
+    </item>
+    
+  </channel>
+</rss>
